@@ -132,3 +132,5 @@ print(f"Processed data saved to {output_file_path}")
 ![image](https://github.com/user-attachments/assets/2b4dec41-3170-4efa-9dc8-1fb75a017fad)
 
 # RESULT:
+
+Thus the program to read the given data and perform Feature Scaling and Feature Selection process and save the data to a file is been executed.
